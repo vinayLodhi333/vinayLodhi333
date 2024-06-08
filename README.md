@@ -2,5 +2,5 @@
 - 👀 I’m interested in PHP, Laravel, web development, and software engineering.
 - 🌱 I’m currently learning advanced Laravel techniques and improving my PHP skills.
 - 💞️ I’m looking to collaborate on open-source Laravel projects or web development projects.
-- 📫 You can reach me through email at [your_email@example.com](mailto:vinayver333@gmail.com).
+- 📫 You can reach me through email at [vinayver333@gmail.com](mailto:vinayver333@gmail.com).
 - ⚡ Fun fact: I enjoy experimenting with new technologies and building side projects in my free time.
